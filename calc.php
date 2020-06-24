@@ -10,7 +10,7 @@
             case 'sub':
                 $compute = $N1-$N2;
             break;
-            case 'add':
+            case 'mul':
                 $compute = $N1*$N2;
             break;
             case 'div':
